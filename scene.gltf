@@ -2164,37 +2164,37 @@
   ],
   "images": [
     {
-      "uri": "textures/Insides_01_diffuse.png"
+      "uri": "Insides_01_diffuse.png"
     },
     {
-      "uri": "textures/Insides_01_emissive.png"
+      "uri": "Insides_01_emissive.png"
     },
     {
-      "uri": "textures/Clouds_01_diffuse.png"
+      "uri": "Clouds_01_diffuse.png"
     },
     {
-      "uri": "textures/Clouds_01_emissive.png"
+      "uri": "Clouds_01_emissive.png"
     },
     {
-      "uri": "textures/Clouds_01_normal.png"
+      "uri": "Clouds_01_normal.png"
     },
     {
-      "uri": "textures/Glow_02_diffuse.png"
+      "uri": "Glow_02_diffuse.png"
     },
     {
-      "uri": "textures/Glow_02_emissive.png"
+      "uri": "Glow_02_emissive.png"
     },
     {
-      "uri": "textures/Glow_02_normal.png"
+      "uri": "Glow_02_normal.png"
     },
     {
-      "uri": "textures/Glow_01_diffuse.png"
+      "uri": "Glow_01_diffuse.png"
     },
     {
-      "uri": "textures/Glow_01_emissive.png"
+      "uri": "Glow_01_emissive.png"
     },
     {
-      "uri": "textures/Glow_01_normal.png"
+      "uri": "Glow_01_normal.png"
     }
   ],
   "materials": [
